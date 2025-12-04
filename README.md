@@ -56,7 +56,7 @@
 
 <!-- ABOUT ME BLOCK -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Passion+One&size=25&duration=500&pause=250&color=FFFFFF&multiline=true&repeat=false&width=1000&height=250&lines=%E2%80%A2+Student+of+Systems+Analysis+and+Development;%E2%80%A2+Artist+%26+creative+developer;%E2%80%A2+Passionate+about+games+and+interactive+worlds;%E2%80%A2+Studying+programming%2C+logic%2C+front-end+%26+game+development;%E2%80%A2+I+believe+technology+can+be+poetic%2C+expressive+and+powerful" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Passion+One&size=35&duration=500&pause=250&color=FFFFFF&background=520B4400&multiline=true&repeat=false&width=1000&height=250&lines=%E2%80%A2+Student+of+Systems+Analysis+and+Development;%E2%80%A2+Artist+%26+creative+developer;%E2%80%A2+Passionate+about+games+and+interactive+worlds;%E2%80%A2+Studying+programming%2C+logic%2C+front-end+%26+game+development;%E2%80%A2+I+believe+technology+can+be+poetic%2C+expressive+and+powerful" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
