@@ -1,10 +1,6 @@
 <!-- TYPING -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=3000&color=C9A6FF&center=true&vCenter=true&width=600&lines=Hello,+my+name+is+Rique.;Welcome+to+my+GitHub+repository." 
-  />
-</p>
-
+<p align= "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=3000&pause=200&color=FFFFFF&background=1C032D56&center=true&multiline=true&repeat=false&width=600&height=90&lines=Hello%2C+my+name+is+Rique.;Welcome+to+my+GitHub+repository" alt="Typing SVG" /></a></p>
 <!-- DARK MOON -->
 <p align="center">
   <img src="dark-moon.gif" width="180">
@@ -12,9 +8,10 @@
 
 <!-- STATS (MIRROR ESTÁVEL) -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=henryp09&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="160">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=henryp09&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=henryp09&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryp09&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="160">
 </p>
+
 <!-- LANGUAGES & TOOLS -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-2B0040?style=for-the-badge&logo=html5&logoColor=d6b1ff">
@@ -45,29 +42,23 @@
 
 <!-- GLOW BAR -->
 <p align="center">
-  <img src="purple.gif" width="650">
+  <img src="linha_colorida.webp" width="1000">
 </p>
+
 
 <h2 align="center">
   ✧ about me ✧
 </h2>
 
+
 <br>
+<img src="espada.png" width="400">
 
 <!-- ABOUT ME BLOCK -->
 <div align="center">
-  <ul align="left" style="display: inline-block; max-width: 600px;">
-    <li>🕯️ 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒂𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</li>
-    <li>🎨 𝑨𝒓𝒕𝒊𝒔𝒕 & 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</li>
-    <li>⚔️ 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒈𝒂𝒎𝒆𝒔 𝒂𝒏𝒅 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝒘𝒐𝒓𝒍𝒅𝒔</li>
-    <li>🧠 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈, 𝒍𝒐𝒈𝒊𝒄, 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 & 𝒈𝒂𝒎𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</li>
-    <li>✨ 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒄𝒂𝒏 𝒃𝒆 𝒑𝒐𝒆𝒕𝒊𝒄, 𝒆𝒙𝒑𝒓𝒆𝒔𝒔𝒊𝒗𝒆 𝒂𝒏𝒅 𝒑𝒐𝒘𝒆𝒓𝒇𝒖𝒍</li>
-  </ul>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Passion+One&size=25&duration=500&pause=250&color=FFFFFF&multiline=true&repeat=false&width=1000&height=250&lines=%E2%80%A2+Student+of+Systems+Analysis+and+Development;%E2%80%A2+Artist+%26+creative+developer;%E2%80%A2+Passionate+about+games+and+interactive+worlds;%E2%80%A2+Studying+programming%2C+logic%2C+front-end+%26+game+development;%E2%80%A2+I+believe+technology+can+be+poetic%2C+expressive+and+powerful" alt="Typing SVG" /></a>
 </div>
 
-
-<br>
-
 <p align="center">
-  <img src="purple.gif" width="450">
+  <img src="linha_roxa_dif.webp" width="1000">
 </p>
