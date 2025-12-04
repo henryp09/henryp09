@@ -57,13 +57,14 @@
 <!-- ABOUT ME BLOCK -->
 <div align="center">
   <ul align="left" style="display: inline-block; max-width: 600px;">
-    <li>🕯️ Student of Systems Analysis and Development</li>
-    <li>🎨 Artist & creative developer</li>
-    <li>⚔️ Passionate about games and interactive worlds</li>
-    <li>🧠 Studying programming, logic, front-end & game development</li>
-    <li>✨ I believe technology can be poetic, expressive and powerful</li>
+    <li>🕯️ 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 𝒐𝒇 𝑺𝒚𝒔𝒕𝒆𝒎𝒔 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔 𝒂𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</li>
+    <li>🎨 𝑨𝒓𝒕𝒊𝒔𝒕 & 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓</li>
+    <li>⚔️ 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒈𝒂𝒎𝒆𝒔 𝒂𝒏𝒅 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝒘𝒐𝒓𝒍𝒅𝒔</li>
+    <li>🧠 𝑺𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈, 𝒍𝒐𝒈𝒊𝒄, 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 & 𝒈𝒂𝒎𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</li>
+    <li>✨ 𝑰 𝒃𝒆𝒍𝒊𝒆𝒗𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒄𝒂𝒏 𝒃𝒆 𝒑𝒐𝒆𝒕𝒊𝒄, 𝒆𝒙𝒑𝒓𝒆𝒔𝒔𝒊𝒗𝒆 𝒂𝒏𝒅 𝒑𝒐𝒘𝒆𝒓𝒇𝒖𝒍</li>
   </ul>
 </div>
+
 
 <br>
 
