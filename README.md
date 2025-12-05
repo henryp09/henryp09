@@ -46,19 +46,24 @@
 </p>
 
 
-<h2 align="center">
-  ✧ about me ✧
+<h2 align="left">
+  <img src="about_me2.gif" width="325">
 </h2>
 
+<div align="left">
 
-<br>
-<img src="espada.png" width="400">
+🕯️ **Student of Systems Analysis and Development**  
+🎨 **Artist & creative developer**  
+⚔️ **Passionate about games and interactive worlds**  
+🧠 **Focused on programming, logic, front-end & game development**  
+✨ *I believe technology can be poetic, expressive and powerful*
 
-<!-- ABOUT ME BLOCK -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Passion+One&size=35&duration=500&pause=250&color=FFFFFF&background=520B4400&multiline=true&repeat=false&width=1000&height=250&lines=%E2%80%A2+Student+of+Systems+Analysis+and+Development;%E2%80%A2+Artist+%26+creative+developer;%E2%80%A2+Passionate+about+games+and+interactive+worlds;%E2%80%A2+Studying+programming%2C+logic%2C+front-end+%26+game+development;%E2%80%A2+I+believe+technology+can+be+poetic%2C+expressive+and+powerful" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
-  <img src="linha_roxa_dif.webp" width="1000">
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/✦%20creative%20mindset-5B2C83?style=flat-square">
+  <img src="https://img.shields.io/badge/✦%20problem%20solver-4B0082?style=flat-square">
 </p>
+
