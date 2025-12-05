@@ -43,7 +43,7 @@
   <img src="linha_colorida.webp" width="1000">
 </p>
 
-  <img src="about_me2.gif" width="325">
+  <img src="about_me2.gif" width="280">
 
 <div align="left">
 
