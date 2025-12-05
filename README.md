@@ -1,12 +1,11 @@
-<!-- TYPING -->
+
 <p align= "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=3000&pause=200&color=FFFFFF&background=1C032D56&center=true&multiline=true&repeat=false&width=600&height=90&lines=Hello%2C+my+name+is+Rique.;Welcome+to+my+GitHub+repository" alt="Typing SVG" /></a></p>
-<!-- DARK MOON -->
+
 <p align="center">
   <img src="dark-moon.gif" width="180">
 </p>
 
-<!-- STATS (MIRROR ESTÁVEL) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henryp09&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryp09&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="160">
@@ -40,15 +39,11 @@
 </p>
 
 
-<!-- GLOW BAR -->
 <p align="center">
   <img src="linha_colorida.webp" width="1000">
 </p>
 
-
-<h2 align="left">
   <img src="about_me2.gif" width="325">
-</h2>
 
 <div align="left">
 
